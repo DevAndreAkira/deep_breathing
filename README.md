@@ -1,8 +1,9 @@
 # Deep_Breathing
 Animação em css para ajudar na respiração e no combate ao estresse.
 
-Suport
-
--Chrome
--Firefox
--Chrome for Android
+Suporta
+<ul>
+  <li>Chrome</li>
+  <li>Firefox</li>
+  <li>Chrome for Android</li>
+</ul>
