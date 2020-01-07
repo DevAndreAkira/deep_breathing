@@ -19,7 +19,7 @@ p.respire{
     color: transparent;
     top: 50%;
     left: 50%;
-    transform: translate(-150%,-70%);
+    transform: translate(-150%,-60%);
     width: 50px;
     height: 50px;
     animation: letra1 12s linear infinite;
@@ -27,12 +27,13 @@ p.respire{
 
 p.inspire{
     margin: 0;
+    margin-left: 6px;
     position: absolute;
     font-size: xxx-large;
     color: transparent;
     top: 50%;
     left: 50%;
-    transform: translate(-150%,-70%);
+    transform: translate(-150%,-60%);
     width: 50px;
     height: 50px;
     animation: letra2 12s linear infinite;
