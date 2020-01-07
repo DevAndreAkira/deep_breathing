@@ -16,7 +16,7 @@ p.respire{
     transform: translate(-150%,-70%);
     width: 50px;
     height: 50px;
-    animation: letra1 15s linear infinite;
+    animation: letra1 12s linear infinite;
 }
 
 p.inspire{
@@ -30,7 +30,7 @@ p.inspire{
     transform: translate(-150%,-70%);
     width: 50px;
     height: 50px;
-    animation: letra2 15s linear infinite;
+    animation: letra2 12s linear infinite;
 }
 
 p{
@@ -59,7 +59,7 @@ p{
     border-radius: 50%;
     background-color: blueviolet;
     background-size: cover;
-    animation: animate 15s linear infinite;
+    animation: animate 12s linear infinite;
 }
 
 @keyframes animate{
